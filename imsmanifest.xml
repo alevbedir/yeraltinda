@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6LKeE90iqdL_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">YER ALTINDA DÜNYA</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="YER_ALTINDA_DÜNYA_ORG">
+    <organization identifier="YER_ALTINDA_DÜNYA_ORG">
+      <title>YER ALTINDA DÜNYA</title>
+      <item identifier="MALAZGİRT_DESTANI_SCO" isvisible="true" identifierref="__6LKeE90iqdL_course_id_RES">
+        <title>YER ALTINDA DÜNYA</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6LKeE90iqdL_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5ha3BqjKo7T_DX534_DY534_CX399_CY151.png" />
+      <file href="mobile/6fBzd12vWbv_DX2400_DY2400_CX1200_CY840.png" />
+      <file href="mobile/5xcgsJanZbA_DX840_DY840_CX629_CY354.png" />
+      <file href="mobile/5rqyOibZued_DX218_DY218_CX163_CY159.png" />
+      <file href="mobile/6ROFm9aJnL3_DX448_DY448_CX301_CY335.png" />
+      <file href="mobile/6JVrN9zW3Ga_DX1936_DY1936_CX1093_CY1452.png" />
+      <file href="mobile/6fBzd12vWbv_DX2400_DY2400_CX1008_CY706.png" />
+      <file href="mobile/6fBzd12vWbv_X_DX2400_DY2400_CX1080_CY756.png" />
+      <file href="mobile/5YgjzzxjsxK_P_144_664_936_272_DX2144_DY2144_CX643_CY187.png" />
+      <file href="mobile/5YgjzzxjsxK_P_144_664_936_272_DX2144_DY2144_CX784_CY228.png" />
+      <file href="story_content/5wCMKlaC7Tl_44100_48_0.mp3" />
+      <file href="story_content/5ZzwAC0awjS_44100_48_0.mp3" />
+      <file href="mobile/65A4dgjQvze_P_166_121_1357_1356_DX506_DY506_CX252_CY252.png" />
+      <file href="mobile/5YgjzzxjsxK_B30_RG_P_144_664_936_272_DX2144_DY2144_CX784_CY228.png" />
+      <file href="mobile/6K434Q9pLzf_P_148_0_1525_1080_DX1840_DY1840_CX1096_CY776.png" />
+      <file href="mobile/6JVrN9zW3Ga_DX1936_DY1936_CX696_CY924.png" />
+      <file href="mobile/5rqyOibZued_DX216_DY216_CX97_CY95.png" />
+      <file href="mobile/6ROFm9aJnL3_DX448_DY448_CX220_CY245.png" />
+      <file href="mobile/5d8IcsoVH6L_DX184_DY184_CX94_CY137.png" />
+      <file href="mobile/5mfx5DR9TST_DX812_DY812_CX323_CY406.png" />
+      <file href="story_content/5xTAUZXeahB_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide5iioOcg5deC.jpg" />
+      <file href="mobile/txt__default_6fBH0PQDbxl.png" />
+      <file href="mobile/Slide6ZwKvwRQoBR.jpg" />
+      <file href="mobile/Shape5zOi4k24TtB.png" />
+      <file href="mobile/Shape6OKXlwZn2N0.png" />
+      <file href="mobile/Slide6BgZM12Lt2z.png" />
+      <file href="mobile/Shape60uEsKf832v.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dqI9UhEImM.js" />
+      <file href="html5/data/js/6BU913rnru1.js" />
+      <file href="html5/data/js/6YywmSo4kqs.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/LICENSE.txt" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
